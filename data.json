@@ -1,0 +1,189 @@
+{
+  "html_attributions": Array [],
+  "results": Array [
+    Object {
+      "business_status": "OPERATIONAL",
+      "geometry": Object {
+        "location": Object {
+          "lat": 34.6914831,
+          "lng": 135.4594318,
+        },
+        "viewport": Object {
+          "northeast": Object {
+            "lat": 34.6928584802915,
+            "lng": 135.4609908302915,
+          },
+          "southwest": Object {
+            "lat": 34.6901605197085,
+            "lng": 135.4582928697085,
+          },
+        },
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "McDonald's",
+      "opening_hours": Object {
+        "open_now": true,
+      },
+      "photos": Array [
+        Object {
+          "height": 2268,
+          "html_attributions": Array [
+            "<a href=\"https://maps.google.com/maps/contrib/107462781809780597607\">辻川公章</a>",
+          ],
+          "photo_reference": "ATtYBwLVwy8NN7Z9Eso1hynG0fTbbzSy3jsTFqTcwi7KfkixdrBk6mTToBLKJyq-EBaHzuKfLursF1-39OQbKK-rzB1G-JC7VyNFH2hVya71xrjrdEGnORmE5bNHTZlJrkK0_Xoy5uu_JqewPCBaIN5__pPY8Nn4FA7mMUIynLmb1PLphXgY",
+          "width": 4032,
+        },
+      ],
+      "place_id": "ChIJa45j_g_mAGARuaOBlQTipQI",
+      "plus_code": Object {
+        "compound_code": "MFR5+HQ Osaka, Japan",
+        "global_code": "8Q6QMFR5+HQ",
+      },
+      "price_level": 1,
+      "rating": 3.3,
+      "reference": "ChIJa45j_g_mAGARuaOBlQTipQI",
+      "scope": "GOOGLE",
+      "types": Array [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment",
+      ],
+      "user_ratings_total": 180,
+      "vicinity": "1 Chome-5 Takami, Konohana Ward, Osaka",
+    },
+    Object {
+      "business_status": "OPERATIONAL",
+      "geometry": Object {
+        "location": Object {
+          "lat": 34.6905594,
+          "lng": 135.4582193,
+        },
+        "viewport": Object {
+          "northeast": Object {
+            "lat": 34.69190983029149,
+            "lng": 135.4596242802915,
+          },
+          "southwest": Object {
+            "lat": 34.68921186970849,
+            "lng": 135.4569263197085,
+          },
+        },
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "和屋",
+      "place_id": "ChIJyeWI8WLnAGARyqgs1UunDhE",
+      "plus_code": Object {
+        "compound_code": "MFR5+67 Osaka, Japan",
+        "global_code": "8Q6QMFR5+67",
+      },
+      "reference": "ChIJyeWI8WLnAGARyqgs1UunDhE",
+      "scope": "GOOGLE",
+      "types": Array [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment",
+      ],
+      "vicinity": "2 Chome-4-16 Takami, Konohana Ward, Osaka",
+    },
+    Object {
+      "business_status": "OPERATIONAL",
+      "geometry": Object {
+        "location": Object {
+          "lat": 34.6906512,
+          "lng": 135.4582325,
+        },
+        "viewport": Object {
+          "northeast": Object {
+            "lat": 34.6920136302915,
+            "lng": 135.4595823302915,
+          },
+          "southwest": Object {
+            "lat": 34.68931566970851,
+            "lng": 135.4568843697085,
+          },
+        },
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "あたりや",
+      "photos": Array [
+        Object {
+          "height": 1124,
+          "html_attributions": Array [
+            "<a href=\"https://maps.google.com/maps/contrib/102670541280051090681\">チャーリー濵</a>",
+          ],
+          "photo_reference": "ATtYBwLKhRxquyO5LqVoWvkY2D1WsHQUWkn508lYvly7-hSI6t-dMxPfU9Lhq5Mk_4HfgYux8VsPO-OYhcMRvlwdvBq5_1l7OeWi6uTnb2kKA4mRfROqvFH1sUclM2Hi1f7yL4zsOaZL7xu5t5vcVkvWr3F_If1PUZJfQi6i-F7uykcRK1BJ",
+          "width": 1500,
+        },
+      ],
+      "place_id": "ChIJ42rtTZDnAGARX-ZtH9F2rf4",
+      "plus_code": Object {
+        "compound_code": "MFR5+77 Osaka, Japan",
+        "global_code": "8Q6QMFR5+77",
+      },
+      "rating": 2.8,
+      "reference": "ChIJ42rtTZDnAGARX-ZtH9F2rf4",
+      "scope": "GOOGLE",
+      "types": Array [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment",
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "2 Chome-4 Takami, Konohana Ward, Osaka",
+    },
+    Object {
+      "business_status": "OPERATIONAL",
+      "geometry": Object {
+        "location": Object {
+          "lat": 34.6904619,
+          "lng": 135.4581914,
+        },
+        "viewport": Object {
+          "northeast": Object {
+            "lat": 34.6918127302915,
+            "lng": 135.4596121802915,
+          },
+          "southwest": Object {
+            "lat": 34.6891147697085,
+            "lng": 135.4569142197085,
+          },
+        },
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "食事処つるや高見支店",
+      "photos": Array [
+        Object {
+          "height": 2160,
+          "html_attributions": Array [
+            "<a href=\"https://maps.google.com/maps/contrib/109557653330209955398\">SMAAAaaash!肩に力バット</a>",
+          ],
+          "photo_reference": "ATtYBwLx8NHuJfdOCLYPH4CfqcXo7bw7p5_tzgNdNzEwU0vJdIiaAaSLr2UreH6sdVkrOL_VZeSTwN6-W60HKU53yyULSrgKs8VCRY2qKvzy03SW8gga6zoR3XbjHHQy9o6NV75bgGc0cV5Zy5ytYaXrjW9PGuoWlVangwM7HVB3FMkXtqtw",
+          "width": 3840,
+        },
+      ],
+      "place_id": "ChIJY8UyuBrmAGARixN3z30xWso",
+      "plus_code": Object {
+        "compound_code": "MFR5+57 Osaka, Japan",
+        "global_code": "8Q6QMFR5+57",
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJY8UyuBrmAGARixN3z30xWso",
+      "scope": "GOOGLE",
+      "types": Array [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment",
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "2 Chome-4-18 Takami, Konohana Ward, Osaka",
+    },
+  ],
+  "status": "OK",
+}
